@@ -41,7 +41,7 @@
 ### 🌐 Connect with Me:
 
 <p align="left">
-  <a href="(https://www.linkedin.com/in/pavan-sai-kakumanu-57b419290/)">
+  <a href="https://www.linkedin.com/in/pavan-sai-kakumanu-57b419290/">
     <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=flat-square&logo=linkedin&logoColor=white"/>
   </a>
   <a href="mailto:221fa04142@gmail.com">
