@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Jhansi Suvarchala</h1>
+<h1 align="center">Hi 👋, I'm Pavan Sai</h1>
 <h3 align="center">A passionate Software Developer</h3>
 
 <p align="center">
@@ -12,7 +12,7 @@
 - 🌱 I’m exploring advanced topics in **DSA & System Design**
 - 👯 I’m looking to collaborate on **open-source and AI projects**
 - 💬 Ask me about **C++, Python, React, MongoDB**
-- 📫 How to reach me: **221fa04140@gmail.com**
+- 📫 How to reach me: **221fa04142@gmail.com**
 - ⚡ Fun fact: *I automate everything I can!*
 
 ---
@@ -41,10 +41,10 @@
 ### 🌐 Connect with Me:
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/jhansi-suvarchala-498019262/">
+  <a href="[https://www.linkedin.com/in/jhansi-suvarchala-498019262/](https://www.linkedin.com/in/pavan-sai-kakumanu-57b419290/)">
     <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=flat-square&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="mailto:221fa04140@gmail.com">
+  <a href="mailto:221fa04142@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white"/>
   </a>
   <a href="https://your-portfolio.com" target="_blank">
